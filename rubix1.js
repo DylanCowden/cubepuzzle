@@ -1,5 +1,7 @@
 console.clear();
-
+/* Dylan Cowden 2x2 cube puzzle
+ * updated comment 1/14/2019
+ */
 var gl;
 var vPosition, vColor;
 var xang, yang, zang, sx, cm;
